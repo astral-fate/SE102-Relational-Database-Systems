@@ -16,3 +16,5 @@
 
 1. https://www.cs.purdue.edu/homes/bb/cs448f19/slidesEd7.html
 2. https://drive.uqu.edu.sa/_/mskhayat/files/MySubjects/2019SS_AdvancedDatabases/Fundamentals%20of%20Database%20Systems%20(7th%20edition).pdf
+3. https://www.udacity.com/course/sql-for-data-analysis--ud198
+4. https://www.udacity.com/course/sql-for-data-analysis--ud198
