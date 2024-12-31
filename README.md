@@ -10,3 +10,9 @@
 | Chapter 9: Relational Database Design by ER and EER-to-Relational Mapping | - ER to Relational mapping<br>- EER to Relational mapping<br>- Design principles<br>- Normalization concepts<br>- Design strategies | - Book slides<br>- Lecture notes<br>- Video tutorial<br>- Practice quizzes (2)<br>- Exam 3 |
 | Chapter 6: Basic Structured Query Language (SQL) | - SQL fundamentals<br>- Data Definition Language (DDL)<br>- Data Manipulation Language (DML)<br>- Basic queries<br>- Join operations<br>- Aggregate functions | - Book slides<br>- Lecture notes (Part 1 & 2)<br>- Video tutorials (2)<br>- Practice quizzes (2)<br>- Exam 4 |
 | Chapter 7: Advanced SQL Topics | - Complex queries<br>- Triggers<br>- Views<br>- Schema modification<br>- Advanced SQL features<br>- Database maintenance | - Book slides<br>- Lecture notes<br>- Video tutorial<br>- Practice quizzes (7) |
+
+
+# Helful resourcses
+
+1. https://www.cs.purdue.edu/homes/bb/cs448f19/slidesEd7.html
+2. https://drive.uqu.edu.sa/_/mskhayat/files/MySubjects/2019SS_AdvancedDatabases/Fundamentals%20of%20Database%20Systems%20(7th%20edition).pdf
