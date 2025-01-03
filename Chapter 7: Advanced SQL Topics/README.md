@@ -134,9 +134,9 @@ ALTER TABLE DEPENDENT ADD CONSTRAINT FK FOREIGN KEY (Essn) REFERENCES EMPLOYEE(S
 
 
 
-# 2.3 Comparison Operators:
+# 2 Comparison Operators:
 <details>
-<summary><h2>2. Comparison Operators (ANY/SOME and ALL) 🔄</h2></summary>
+<summary><h2>2.3 ANY/SOME and ALL🔄</h2></summary>
 
 ### Syntax & Operators
 ```sql
