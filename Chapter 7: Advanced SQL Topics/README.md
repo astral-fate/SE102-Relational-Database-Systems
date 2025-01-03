@@ -21,7 +21,7 @@
 </details>
 
 <details>
-<summary><h2>2. Comparison Operators 🔄</h2></summary>
+<summary><h2>2.3 Comparison Operators 🔄</h2></summary>
 
 - EXISTS/NOT EXISTS
 - IN/NOT IN 
