@@ -21,12 +21,12 @@
 </details>
 
 <details>
-<summary><h2>2.3 Comparison Operators 🔄</h2></summary>
+<summary><h2>2. Comparison Operators 🔄</h2></summary>
 
-- EXISTS/NOT EXISTS
-- IN/NOT IN 
-- ANY/SOME/ALL
-- NULL comparisons
+- 2.1 EXISTS/NOT EXISTS
+- 2.2 IN/NOT IN 
+- 2.3 ANY/SOME/ALL
+- 2.4 NULL comparisons
 </details>
 
 <details>
@@ -134,7 +134,7 @@ ALTER TABLE DEPENDENT ADD CONSTRAINT FK FOREIGN KEY (Essn) REFERENCES EMPLOYEE(S
 
 
 
-# 2. Comparison Operators:
+# 2.3 Comparison Operators:
 <details>
 <summary><h2>2. Comparison Operators (ANY/SOME and ALL) 🔄</h2></summary>
 
